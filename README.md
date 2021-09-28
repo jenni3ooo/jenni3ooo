@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jenni3ooo
-- 👀 I’m interested in Data, Textile, Lightdesign
-- 🌱 I’m currently learning to Code 
-- 💞️ I’m looking to collaborate on creative projects
+- 👋 Hi, I’m @jenni3ooo.
+- 👀 I’m interested in Data, Textile and Lightdesign.
+- 🌱 I’m just started studying data science at FHNW in switzerland.
+- 💞️ I’m looking to collaborate on creative projects.
 - 📫 How to reach me jenni@studio3000.ch
 
 <!---
